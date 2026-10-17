@@ -1,3 +1,3 @@
-# Machine Learning Systems — Code
+# Sistemas de Aprendizaje Automático (SAA) — Código
 
-GitHub upload source for SAA code and concise technical notes. Add topic/task folders only when assigned; keep official handouts and original exercise files in the neighboring local archive folders.
+Carpeta de GitHub para el código de SAA y sus notas técnicas breves. Añade carpetas de temas y tareas cuando se asignen; conserva las guías oficiales y los ejercicios originales en las carpetas del archivo local.
