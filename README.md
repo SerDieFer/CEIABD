@@ -1,21 +1,19 @@
 # Inteligencia Artificial y Big Data — 1CESIABD
 
-Repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data** del curso **2026/2027**
-
-Este espacio reúne proyectos, ejercicios de programación y notas técnicas desarrollados a lo largo del curso.
+Repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data** del curso **2026/2027**.
 
 ## Asignaturas
 
-| Carpeta | Asignatura | Contenidos principales |
+| Carpeta de código | Asignatura | Contenidos principales |
 |---|---|---|
-| [`bda/code/`](bda/code/README.md) | **Big Data Aplicado (BDA)** | Gestión, almacenamiento, transformación y análisis de grandes volúmenes de datos. |
-| [`mia/code/`](mia/code/README.md) | **Modelos de Inteligencia Artificial (MIA)** | Métodos y aplicaciones de IA: búsqueda, aprendizaje automático, lenguaje natural, sistemas expertos y robótica. |
-| [`pria/code/`](pria/code/README.md) | **Programación de Inteligencia Artificial (PRIA)** | Lenguajes, herramientas y desarrollo de soluciones y aplicaciones de IA. |
-| [`saa/code/`](saa/code/README.md) | **Sistemas de Aprendizaje Automático (SAA)** | Preparación de datos, entrenamiento y evaluación de modelos de aprendizaje automático. |
-| [`sbd/code/`](sbd/code/README.md) | **Sistemas de Big Data (SBD)** | Arquitecturas, almacenamiento y procesamiento distribuido de datos. |
+| [`BDA/code/`](BDA/code/README.md) | **Big Data Aplicado (BDA)** | Gestión, almacenamiento, transformación y análisis de grandes volúmenes de datos. |
+| [`MIA/code/`](MIA/code/README.md) | **Modelos de Inteligencia Artificial (MIA)** | Búsqueda, representación del conocimiento, aprendizaje automático, lenguaje natural y robótica. |
+| [`PRIA/code/`](PRIA/code/README.md) | **Programación de Inteligencia Artificial (PRIA)** | Lenguajes y herramientas para desarrollar soluciones y aplicaciones de inteligencia artificial. |
+| [`SAA/code/`](SAA/code/README.md) | **Sistemas de Aprendizaje Automático (SAA)** | Preparación de datos, entrenamiento y evaluación de modelos de aprendizaje automático. |
+| [`SBD/code/`](SBD/code/README.md) | **Sistemas de Big Data (SBD)** | Arquitecturas, almacenamiento y procesamiento distribuido de datos. |
 
-## Cómo está organizado
+## Publicación desde Visual Studio Code
 
-Cada asignatura contiene una carpeta `code/` con el código y las notas técnicas. A medida que se realicen las prácticas, se agruparán por tema y tarea, con nombres descriptivos y numeración consecutiva.
+Abre en Visual Studio Code la carpeta raíz `CEIABD`. El repositorio conserva las rutas locales de cada asignatura: por ejemplo, un archivo de `BDA/code/` aparece en GitHub también bajo `BDA/code/`. Añade, confirma y sube los cambios desde el panel **Control de código fuente**.
 
-Este repositorio se centra en el trabajo de programación. Los temarios, documentos docentes y hojas originales de ejercicios no forman parte de la publicación.
+Solo se versionan este README, la licencia y el contenido de cada carpeta `code/`. Los documentos docentes, ejercicios originales, grabaciones y demás archivos locales quedan excluidos mediante `.gitignore`.

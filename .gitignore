@@ -1,0 +1,33 @@
+# Keep the teaching archive local by default.
+*
+
+# Public repository files.
+!/.gitignore
+!/README.md
+!/LICENSE
+
+# Allow only each subject's code directory.
+!/BDA/
+/BDA/*
+!/BDA/code/
+!/BDA/code/**
+
+!/MIA/
+/MIA/*
+!/MIA/code/
+!/MIA/code/**
+
+!/PRIA/
+/PRIA/*
+!/PRIA/code/
+!/PRIA/code/**
+
+!/SAA/
+/SAA/*
+!/SAA/code/
+!/SAA/code/**
+
+!/SBD/
+/SBD/*
+!/SBD/code/
+!/SBD/code/**
