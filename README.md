@@ -1,8 +1,8 @@
 # Inteligencia Artificial y Big Data — 1CESIABD
 
-¡Bienvenido/a al repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data** del curso **2026/2027**!
+Repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data** del curso **2026/2027**
 
-Este espacio reúne proyectos, ejercicios de programación y notas técnicas desarrollados a lo largo del curso. Está organizado por asignaturas para que estudiantes, docentes y otras personas interesadas puedan explorar el trabajo realizado en cada área.
+Este espacio reúne proyectos, ejercicios de programación y notas técnicas desarrollados a lo largo del curso.
 
 ## Asignaturas
 
@@ -19,7 +19,3 @@ Este espacio reúne proyectos, ejercicios de programación y notas técnicas des
 Cada carpeta contiene el código y las notas técnicas de una asignatura. A medida que se realicen las prácticas, se agruparán por tema y tarea, con nombres descriptivos y numeración consecutiva.
 
 Este repositorio se centra en el trabajo de programación. Los temarios, documentos docentes y hojas originales de ejercicios no forman parte de la publicación.
-
-## Convenciones
-
-Los nombres de carpetas y archivos usan minúsculas, caracteres ASCII y el formato `snake_case`; las extensiones también van en minúsculas. Las prácticas se añaden conforme se asignan durante el curso.
