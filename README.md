@@ -1,6 +1,6 @@
 # Especialización en Inteligencia Artificial y Big Data
 
-Repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data (1CESIABD)** del curso **2026/2027**, impartida en el **IES Antonio Sequeros**.
+Repositorio de prácticas de la especialización de **Inteligencia Artificial y Big Data (1CESIABD)**.
 
 Aquí se organiza el código desarrollado en las asignaturas. Cada carpeta reúne las prácticas y notas técnicas breves de una materia. El repositorio acompaña el aprendizaje de programación, inteligencia artificial y sistemas de datos a gran escala.
 
@@ -17,7 +17,7 @@ Aquí se organiza el código desarrollado en las asignaturas. Cada carpeta reún
 ## Organización del código
 
 - Cada asignatura tiene su propia carpeta en la raíz.
-- El código se divide por tema y tarea cuando se asignen prácticas, siguiendo los nombres `topic_01_<name>/task_01_<name>/`.
+- El código se divide por tema y tarea cuando se asignen prácticas, siguiendo los nombres `tema_01_<nombre>/tarea_<numero>_<nombre>/`.
 - Los README de cada asignatura resumen qué se guarda en su carpeta.
 - Las guías docentes, temarios, ejercicios originales y grabaciones se conservan en el archivo local del curso y no se publican aquí.
 - No se crean carpetas de tareas ni soluciones antes de que se asigne o solicite cada práctica.
