@@ -1,3 +1,3 @@
-# Artificial Intelligence Models — Code
+# Modelos de Inteligencia Artificial (MIA) — Código
 
-GitHub upload source for MIA code and concise technical notes. Add topic/task folders only when assigned; keep official handouts and original exercise files in the neighboring local archive folders.
+Carpeta de GitHub para el código de MIA y sus notas técnicas breves. Añade carpetas de temas y tareas cuando se asignen; conserva las guías oficiales y los ejercicios originales en las carpetas del archivo local.
