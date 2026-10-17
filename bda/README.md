@@ -1,3 +1,3 @@
-# Applied Big Data — Code
+# Big Data Aplicado (BDA) — Código
 
-GitHub upload source for BDA code and concise technical notes. Add topic/task folders only when assigned; keep official handouts and original exercise files in the neighboring local archive folders.
+Carpeta de GitHub para el código de BDA y sus notas técnicas breves. Añade carpetas de temas y tareas cuando se asignen; conserva las guías oficiales y los ejercicios originales en las carpetas del archivo local.
