@@ -1,3 +1,3 @@
-# Big Data Systems — Code
+# Sistemas de Big Data (SBD) — Código
 
-GitHub upload source for SBD code and concise technical notes. Add topic/task folders only when assigned; keep official handouts and original exercise files in the neighboring local archive folders.
+Carpeta de GitHub para el código de SBD y sus notas técnicas breves. Añade carpetas de temas y tareas cuando se asignen; conserva las guías oficiales y los ejercicios originales en las carpetas del archivo local.
